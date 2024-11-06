@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 427 427">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 25px;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <g>
+      <line class="cls-1" x1="146.5" y1="79.5" x2="280.5" y2="79.5"/>
+      <line class="cls-1" x1="213.5" y1="12.5" x2="213.5" y2="139.49"/>
+      <polygon class="cls-1" points="12.5 146.5 79.5 276.13 347.5 280 414.5 146.5 12.5 146.5"/>
+      <polyline class="cls-1" points="117 278 117 414.5 312 414.5 312 278"/>
+    </g>
+  </g>
+</svg>

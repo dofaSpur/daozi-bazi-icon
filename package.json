@@ -1,0 +1,18 @@
+{
+  "name": "daozi-bazi-icon",
+  "version": "1.0.0",
+  "keywords": [
+    "bazi",
+    "八字",
+    "svg",
+    "icons",
+    "daozi",
+    "wudaozi",
+    "命理",
+    "命理学",
+    "命理图标"
+  ],
+  "author": "wudaozi",
+  "license": "MIT",
+  "description": "BaZi(八字) SVG icons collection"
+}
